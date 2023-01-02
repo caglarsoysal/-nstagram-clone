@@ -1,2 +1,2 @@
 # -nstagram-clone
-merhaba instagram sayfasının kodluyoruz ödeveleri kapsamında clon çalışması ekteki dosyalarda mevcuttur
+merhaba instagram sayfasının clonu calısmasını kodluyoruz ödevleri kapsamında bitirmiş bulunmakla birlikte yararlanmak isteyenler için açık kaynak olarak ekteki dosyalarda kodlamaları mevcuttur.
